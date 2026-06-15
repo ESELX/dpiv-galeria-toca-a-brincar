@@ -41,10 +41,10 @@ A matraca comunica com a castanhola e o xilofone por três vias: material (todos
 
 Material: Madeira de Nogueira.
 Fabrico: Corte a laser ou CNC para precisão das engrenagens/eixos.
-Software: Paramétrico (Fusion 360).
+Software: Paramétrico (Autodesk Fusion 360).
 Ficheiros: DXF para corte, STEP/STL para modelação, PDF para planificação de montagem.
 
-- Modelo 3D: <!-- https://a360.co/4x29iiJ --> https://a360.co/4x29iiJ
+- Modelo 3D: https://a360.co/4x29iiJ
 - Ficheiros: `attachments/`
 
 ## Função
