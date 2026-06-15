@@ -41,7 +41,7 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
+- Modelo 3D: <!-- https://a360.co/4fSgmIu -->
 - Ficheiros: `attachments/`
 
 ## Função
