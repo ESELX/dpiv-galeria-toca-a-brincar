@@ -36,9 +36,7 @@ Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
 
 ## 4. Modelos 3D
 
-Embed do Fusion (visualização do modelo paramétrico).
-
-https://a360.co/4nqYoPa
+[https://a360.co/48V5CF7](https://a360.co/48V5CF7 "https://a360.co/48V5CF7")
 
 ## 5. Outros Modelos
 
