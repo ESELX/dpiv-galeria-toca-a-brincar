@@ -1,20 +1,20 @@
 ---
-title: "Nome do Produto"
+title: Xilofone
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Produto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_title: Xilofone
+hero_subtitle: Matilde Jorge · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: ""
-student_number: ""
+student_name: Matilde Jorge
+student_number: "2024277"
 ---
 
-# Nome do Produto
+# Xilofone
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto

@@ -1,20 +1,20 @@
 ---
-title: "Nome do Produto"
+title: Castanholas
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Produto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_title: Castanholas
+hero_subtitle: Kenai Barbosa · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: ""
-student_number: ""
+student_name: Kenai Barbosa
+student_number: "2024336"
 ---
 
-# Nome do Produto
+# Castanholas
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
