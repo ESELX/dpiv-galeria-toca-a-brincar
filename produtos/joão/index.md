@@ -44,7 +44,7 @@ Fabrico: Corte a laser ou CNC para precisão das engrenagens/eixos.
 Software: Paramétrico (Fusion 360).
 Ficheiros: DXF para corte, STEP/STL para modelação, PDF para planificação de montagem.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
+- Modelo 3D: <!-- https://a360.co/4x29iiJ --> https://a360.co/4x29iiJ
 - Ficheiros: `attachments/`
 
 ## Função
