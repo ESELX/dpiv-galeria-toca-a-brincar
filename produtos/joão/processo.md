@@ -16,9 +16,7 @@ published: true
 
 ## 1. Modelos 3D
 
-Embed do Fusion (visualização do modelo paramétrico).
-
-https://a360.co/4nqYoPa
+https://a360.co/4x29iiJ
 
 ## 2. Outros Modelos
 
