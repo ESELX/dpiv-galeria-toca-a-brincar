@@ -20,15 +20,9 @@ published: true
 
 ## 2. Outros Modelos
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
-
-![](attachments/placeholder.png)
-
+Foi primeiramente realizado uma maquete de cartão que serviu para testar o sistema de encaixes e o tamanho das peças. Neste momento não temos nenhuma imagem disponível desta maquete ao que a mesma encontra-se inutilizável e não se realizou nenhum registo fotográfico antes do seu descarte. 
+No entanto, a maquete permitiu perceber que seria necessário ajustar algumas medidas e procurar outras soluções mais eficientes para os encaixes.
 ## 3. Esboços e Pranchas-Resumo
-
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
 
 ![](attachments/pagina20260307_14403054.jpg)
 
@@ -41,10 +35,7 @@ exploração de variantes.
 
 ### 4.2. Objetos de referencia
 
-Inventário de precedentes, brinquedos análogos, referências históricas.
-
-![](attachments/placeholder.png)
-
-## 5. Outros Elementos
-
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+- castanhola madeirense 
+inserir imagem
+- tazos
+inserir imagem

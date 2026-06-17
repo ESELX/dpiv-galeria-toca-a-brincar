@@ -67,7 +67,11 @@ Painel de referências visuais e conceptuais que orientam a estratégia do grupo
 
 ![Moodboard](attachments/placeholder.png)
 
-### 2.3. Referências bibliográficas:
+## 3. Embalagem
+
+
+
+## 4. Referências Bibliográficas
 
 - Bortoletto-Dunker, A., Lordelo, E. (1993). _Um novo bebé: interpretações sobre competências._
 - Malloch, S., Trevarthen, C. (2009). _Musicality: Communicating the vitality and interests in life._

@@ -22,11 +22,7 @@ student_number: "2024336"
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
-
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
-
+A Castanhola Nestor tem como principal objetivo ser um brinquedo tanto musical quanto de encaixe que estimule a criatividade para todas as idades.
 ## Conceito
 
 As Castanholas Nestor partem da ideia de construir um brinquedo tanto de caráter exploratório, logico quanto de caráter exploratório criativo, que buscasse desafiar a imaginação. a partir dai ideias foram discutidas em grupo, iniciando com a ideia de um brinquedo relacionado a astronomia e a busca de constelações para o atual tronco de produtos da marca, a musica, considerando os pontos essenciais quais queria destacar meu produto.
@@ -53,7 +49,14 @@ Ficheiros: DXF para corte, STEP/STL para modelação
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+Para brincar com as castanholas Nestor, existem duas configurações:
+- 1ª - com as peças separadas, a criança pode divertir-se com a explorar da criatividade através da montagem que liberta diversas possibilidades de acordo com a imaginação
+- 2ª - com a montagem em forma de instrumento, pode se fazer musica com o chacoalhar do pulso e articulação do braço segurando na traseira da castanhola. também é possível controlar o ritmo e sonoridade através da intensidade dos movimentos e da quantidade de ” laminas/tazos ” em atividade na castanhola.
+ 
+Idade - alvo: 5+ anos
+
+Montagem: Encaixe simples sem cola ou fixações.
+Diretiva 2009/48/CE (Segurança de Brinquedos): Peças bem fixadas para evitar ingestão. Sem pontas afiadas, arestas arredondadas. Madeira não tóxica (sem lascas soltas). Som com intensidade controlada (< 80 dB junto ao ouvido). Necessário ensaio de impacto e compressão para evitar rutura que liberte componentes pequenos.
 
 ## Apresentação
 
