@@ -65,8 +65,7 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 
 Painel de referências visuais e conceptuais que orientam a estratégia do grupo.
 
-![Moodboard](attachments/placeholder.png)
-
+![](attachments/moodboardf%201.jpg)
 ## 3. Embalagem
 
 

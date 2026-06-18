@@ -3,7 +3,7 @@ title: Castanholas
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/herok.jpg
 hero_title: Castanholas
 hero_subtitle: Kenai Barbosa · 2025-26
 hero_height: 80vh
@@ -16,11 +16,7 @@ student_number: "2024336"
 
 # Castanholas
 
-<!--
-  HERO: idealmente uma pseudo-sessão fotográfica do produto
-  (ver tutorial Pletor.ai nos Recursos da disciplina, em
-  /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->
+![](attachments/herok.jpg)
 
 A Castanhola Nestor tem como principal objetivo ser um brinquedo tanto musical quanto de encaixe que estimule a criatividade para todas as idades.
 ## Conceito

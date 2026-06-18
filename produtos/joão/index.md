@@ -3,7 +3,7 @@ title: Matraca
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/heroj.jpg
 hero_title: Matraca
 hero_subtitle: João Silva · 2025-26
 hero_height: 80vh
@@ -16,11 +16,7 @@ student_number: "2024296"
 
 # Matracas
 
-<!--
-  HERO: idealmente uma pseudo-sessão fotográfica do produto
-  (ver tutorial Pletor.ai nos Recursos da disciplina, em
-  /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->
+![](attachments/heroj.jpg)
 
 > Frase-conceito (uma linha): qual é a proposta?
 
