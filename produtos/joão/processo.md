@@ -14,42 +14,44 @@ published: true
 
 # Processo
 
-## 1. Modelos 3D
+## 1. Protótipo/ Versão Final
+
+As imagens que seguem foram capturadas recorrendo ao software Autodesk Fusion 360 do modelo 3D final do brinquedo dada a impossibilidade de realizar os protótipos finais atempadamente.
+## 2. Modelos 3D
 
 https://a360.co/4x29iiJ
-
-## 2. Outros Modelos
+## 3. Outros Modelos
 
 Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 ![](attachments/placeholder.png)
+## 4. Esboços e Pranchas-Resumo
 
-## 3. Esboços e Pranchas-Resumo
+### 4.1. Esboços iniciais
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
+![401](attachments/1000001618.png)
 
-![](attachments/1000001618.png)
-
-![](attachments/1000001748.png)
+![405](attachments/1000001748.png)
+### 4.2. Prancha-Resumo inicial
 
 ![](attachments/1000001531.png)
 
+### 4.3. Prancha-Resumo Final
+
 ![](attachments/prfinaljoao.jpg)
 
-## 4. Pesquisa
+## 5. Pesquisa
 
-### 4.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+### 5.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
 ![](attachments/placeholder.png)
 
-### 4.2. Objetos de referencia
+### 5.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
 ![](attachments/placeholder.png)
 
-## 5. Outros Elementos
+## 6. Outros Elementos
 
 Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).

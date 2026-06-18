@@ -14,7 +14,9 @@ published: true
 
 # Processo
 
-## 1.
+## 1. Protótipo/ Versão Final
+
+As imagens que seguem foram capturadas recorrendo ao software Autodesk Fusion 360 do modelo 3D final do brinquedo dada a impossibilidade de realizar os protótipos finais atempadamente.
 
 ## 2. Processo de Prototipagem
 
@@ -66,26 +68,44 @@ Através deste protótipo conseguimos ter uma melhor interpretação daquele que
 - a modificação das peças das lâminas para um formato mais simples e uniforme, fazendo com que em vez de se fazer 1 peça para cada uma das lâminas para cada nota musical (por isso, 8 peças no total apenas para as lâminas) fazer-se apenas 2 peças para as 8 notas musicais (4 notas para cada peça).
 - a introdução dum novo elemento - a baqueta - para a criação de som com as lâminas.
 
-
 Com base nas aprendizagens obtidas com este 2º protótipo, estas são as mudanças ligeiras que gostaria de vir a fazer numa versão mais final e completa do brinquedo:
 
 - realização dum corte correto e completo (com todas as peças do ficheiro), com uma madeira mais densa e adequada à causa, para que se possa explorar, em detalhe, questões como a afinação das lâminas dado que as suas medidas neste protótipo e no ficheiro atual (junho de 2026), estão definidas com base na formula aplicada para a obtenção duma frequência diferente para cada uma das notas/lâminas. Mais sobre este processo no ponto `6.2. Objetos de referência.`
 - alteração ligeira dalgumas das peças, de modo a acrescentar mais encaixes da linha "Toca a Brincar!" da Nestor (encaixes tipo tazos), para que possa haver uma maior interação e relação com os outros brinquedos (a Matraca e as Castanholas) e as suas respetivas peças. Segue-se uma representação ilustrativa com as respetivas alterações:
 
 ![](attachments/prototipo2.jpeg)
+
 ## 4. Modelos 3D
 
-https://a360.co/4nqYoPa
+https://a360.co/4fSgmIu
 
 ## 5. Esboços e Pranchas-Resumo
 
-![](attachments/image-bXGA9.png)
-![](attachments/image-fo7rx.png)
+### 5.1. *Tonette Puzzle*
 
+![331](attachments/image-bXGA9.png)
+![331](attachments/image-fo7rx.png)
+	Primeiros esboços alusivos à primeira ideia para o meu brinquedo
 
-![](attachments/pr2matilde.jpeg)
+Os primeiros esboços feitos para este projeto, à semelhança do projeto atual, tinham como tema base a música. Deste modo a ideia consistia em criar um brinquedo de madeira que se assemelharia ao instrumento musical *tonette* - um instrumento de sopro que funciona como uma flauta pequena de plástico que surgiu nos anos 30 como uma opção simples e barata para ensinar música nas escolas dos Estados Unidos (fonte: https://en.wikipedia.org/wiki/Tonette).
 
+![369](attachments/Pasted%20image%2020260618120434.png)
+	*Swanson tonette*
 
+A *Tonette Puzzle* seria então a apropriação deste instrumento de sopro para um brinquedo de madeira que se desconstruiria em peças diversas que funcionariam como um puzzle.
+Deste modo a *Tonette Puzzle* proporcionaria as seguintes dinâmicas e opcções de brincadeiras:
+
+- instrumento de sopro;
+- dois puzzles distintos - o puzzle que daria forma à *Tonette* e um outro puzzle mais livre e sem forma definida que graças aos encaixes das peças, poderiam interagir e complementar os restantes brinquedos da linha *Toca a Brincar!*, nomeadamente as Maracas e a Matraca.
+
+Ao tentar aplicar esta ideia com base na carpintaria digital, várias questões impeditivas foram surgindo fazendo com que fosse explorar opções e abordagens diferentes para este brinquedo. Dentro dos pontos que foram surgindo, estes foram alguns dos que determinaram a impossibilidade de dar seguimento à *Tonette Puzzle*:
+
+- a brincadeira com a Tonette poderia vir a criar alguns constrangimentos e até causar alguma frustração dado que o sopro necessário para a produção de som com o brinquedo é uma questão que requer alguma técnica que as crianças até aos 7 anos por norma ainda não dominam muito bem.
+- a partir dum certo ponto senti que este projeto estava a tentar fazer de todo um pouco, mas que efetivamente não estaria a dominar nenhuma das brincadeiras que proporcionaria, fazendo com que o seu propósito acabasse por ficar confuso e desinteressante para as crianças.
+### 5.2. Xilofone Flor Nestor
+
+![419](attachments/pr2matilde.jpeg)
+### 5.3. Prancha Resumo Final
 
 ![](attachments/prfinalmatilde.jpg)
 

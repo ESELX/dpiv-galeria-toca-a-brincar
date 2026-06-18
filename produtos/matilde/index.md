@@ -1,10 +1,10 @@
 ---
-title: Xilofone
+title: Xilofone Flor
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: Xilofone
+hero_title: Xilofone Flor
 hero_subtitle: Matilde Jorge · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
@@ -14,7 +14,7 @@ student_name: Matilde Jorge
 student_number: "2024277"
 ---
 
-# Xilofone
+# Xilofone Flor
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
