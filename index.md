@@ -1,21 +1,21 @@
 ---
-title: "Nome do Grupo"
+title: Toca a Brincar!
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
-hero_title: "Nome do Grupo"
-hero_subtitle: "Design de Produto IV · 2025-26"
+hero_image: attachments/herobanner.png
+hero_title: Toca a Brincar!
+hero_subtitle: Design de Produto IV · 2025-26
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
-course: "DesignDeProdutoIV"
-group_name: ""
+course: DesignDeProdutoIV
+group_name: Toca a Brincar!
 group_number: ""
 ---
 
-# Nome do Grupo
+# Toca a Brincar!
 
 > Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
 

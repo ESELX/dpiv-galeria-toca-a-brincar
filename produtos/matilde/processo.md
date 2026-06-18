@@ -57,10 +57,12 @@ O segundo protótipo já foi um modelo em maior conformidade com as devidas alte
 
 
 ![](attachments/uso.mp4)
+	
 	Protótipo a ser manuseado - relação à escala humana
 
 
 ![](attachments/rotacao.mp4)
+	
 	Protótipo a ser manuseado - rotação da peça das lâminas segundo o eixo central
 
 Através deste protótipo conseguimos ter uma melhor interpretação daquele que é o seu aspeto mais completo e montado e como se comporta num contexto de uso e de brincadeira. Podemos então constatar: 
@@ -120,6 +122,7 @@ Em seguimento, fui desenvolvendo os esboços que serviriam como base para aquele
 ### 5.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
 ![](attachments/placeholder.png)
+
 
 ### 5.2. Objetos de referência
 
