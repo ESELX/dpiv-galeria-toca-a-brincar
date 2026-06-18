@@ -18,6 +18,10 @@ published: true
 
 As imagens que seguem foram capturadas recorrendo ao software Autodesk Fusion 360 do modelo 3D final do brinquedo dada a impossibilidade de realizar os protótipos finais atempadamente.
 
+![](attachments/k1.png)
+
+![](attachments/k2.png)
+
 ## 2. Modelos 3D
 
 [https://a360.co/48V5CF7](https://a360.co/48V5CF7 "https://a360.co/48V5CF7")

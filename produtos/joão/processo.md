@@ -17,6 +17,10 @@ published: true
 ## 1. Protótipo/ Versão Final
 
 As imagens que seguem foram capturadas recorrendo ao software Autodesk Fusion 360 do modelo 3D final do brinquedo dada a impossibilidade de realizar os protótipos finais atempadamente.
+
+![](attachments/j4.png)
+
+![](attachments/j2.png)
 ## 2. Modelos 3D
 
 https://a360.co/4x29iiJ

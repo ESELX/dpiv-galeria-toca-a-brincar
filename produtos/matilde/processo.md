@@ -18,6 +18,10 @@ published: true
 
 As imagens que seguem foram capturadas recorrendo ao software Autodesk Fusion 360 do modelo 3D final do brinquedo dada a impossibilidade de realizar os protótipos finais atempadamente.
 
+![](attachments/m5.png)
+
+![](attachments/m7.png)
+
 ## 2. Processo de Prototipagem
 
 Maquinação CNC, montagem, acabamentos pontuais. 
@@ -56,11 +60,11 @@ O segundo protótipo já foi um modelo em maior conformidade com as devidas alte
 ![](attachments/Pasted%20image%2020260618095205.png)
 	 Protótipo completamente montado
 
-
+![](attachments/uso.mp4)
 	Protótipo a ser manuseado - relação à escala humana
 
-
-	Protótipo a ser manuseado - rotação da peça das lâminas
+![](attachments/rotacao.mp4)
+	Protótipo a ser manuseado - rotação da peça das lâminas segundo o eixo central
 
 Através deste protótipo conseguimos ter uma melhor interpretação daquele que é o seu aspeto mais completo e montado e como se comporta num contexto de uso e de brincadeira. Podemos então constatar: 
 
@@ -100,11 +104,16 @@ Deste modo a *Tonette Puzzle* proporcionaria as seguintes dinâmicas e opcções
 
 Ao tentar aplicar esta ideia com base na carpintaria digital, várias questões impeditivas foram surgindo fazendo com que fosse explorar opções e abordagens diferentes para este brinquedo. Dentro dos pontos que foram surgindo, estes foram alguns dos que determinaram a impossibilidade de dar seguimento à *Tonette Puzzle*:
 
-- a brincadeira com a Tonette poderia vir a criar alguns constrangimentos e até causar alguma frustração dado que o sopro necessário para a produção de som com o brinquedo é uma questão que requer alguma técnica que as crianças até aos 7 anos por norma ainda não dominam muito bem.
-- a partir dum certo ponto senti que este projeto estava a tentar fazer de todo um pouco, mas que efetivamente não estaria a dominar nenhuma das brincadeiras que proporcionaria, fazendo com que o seu propósito acabasse por ficar confuso e desinteressante para as crianças.
+- a brincadeira com a *Tonette* poderia vir a criar alguns constrangimentos e até causar alguma frustração dado que o sopro necessário para a produção de som com o brinquedo é uma questão que requer alguma técnica que as crianças até aos 7 anos por norma ainda não dominam muito bem.
+- a partir dum certo ponto senti que com este projeto estava a tentar fazer de tudo um pouco, mas que efetivamente não estaria a dominar nenhuma das brincadeiras que proporcionaria, fazendo com que o seu propósito acabasse por ficar confuso e desinteressante para as crianças.
+
 ### 5.2. Xilofone Flor Nestor
 
+Em seguimento, fui desenvolvendo os esboços que serviriam como base para aquele que é o atual Xilofone Flor, cujo processo de desenvolvimento e experimentação foi previamente abordado nos pontos anteriores.
+
 ![419](attachments/pr2matilde.jpeg)
+	Esboços do Xilofone Flor
+
 ### 5.3. Prancha Resumo Final
 
 ![](attachments/prfinalmatilde.jpg)
@@ -116,13 +125,58 @@ Ao tentar aplicar esta ideia com base na carpintaria digital, várias questões 
 ![](attachments/placeholder.png)
 
 ### 6.2. Objetos de referência
-Foi realizada uma pesquisa relativa ao modo 
-![](attachments/Pasted%20image%2020260617101555.png)
-![](attachments/Pasted%20image%2020260617101607.png)
 
+Tendo como referência um xilofone de madeira, realizei uma pesquisa que teve como objetivo definir o tamanho das lâminas das notas musicais do Xilofone Flor.
+
+![](attachments/Pasted%20image%2020260617101555.png)
+	Xilofone de referência - vista de cima
+  
+![](app://4f13ff2fed9c13d862c7c2ad11c67fd38308/C:/Users/matil/OneDrive%20-%20Instituto%20Polit%C3%A9cnico%20de%20Lisboa/Documentos/LAVT/2%C2%BA%20ano/2%20semestre/Projeto%20em%20Design/Produto/dpiv-galeria-toca-a-brincar/produtos/matilde/attachments/Pasted%20image%2020260617101607.png?1781687767948)
+	Xilofone de referência - vista de lado duma das lâminas
+
+Após ter feito uma recolha de informações e medidas de cada uma das lâminas obtive os seguintes dados:
+
+Tamanho das lâminas
+- dó -195 mm
+- ré - 186 mm
+- mi - 174 mm
+- fá - 168 mm
+- sol - 158 mm
+- lá - 148 mm
+- si - 142 mm
+- dó - 137 mm
+- ré - 130 mm
+- mi - 121 mm
+- fá - 118 mm
+
+- espessura nos cantos - 7mm
+- esp mínima no centro - 3mm
+- comprimento do rebaixo - 65mm
+
+Numa pesquisa posterior a esta, deparei-me com os relatos e resultados de outras pessoas que já haviam feito esta mesma pesquisa que eu de modo a definir as dimensões corretas das barras para um xilofone de madeira. 
+Assim, pude encontrar uma formula/equação que acabei então por experimentar com os dados recolhidos anteriormente com o xilofone de referência, tendo acabado por confirmar que o mesma seria de facto a formula de cálculo mais acertada, sendo que, é necessário ter em consideração que as lâminas ainda precisariam de serem trabalhadas mais a detalhe para que possam ser afinas a melhor detalhe e precisão para alcançar a frequência correta/desejada.
+
+A formula consiste no seguinte:
+
+- dimensão necessária = raiz quadrada da (dimensão atual * dimensão atual * frequência atual / frequência desejada)
+
+Simplificando: 
+
+- dn = √(da² * fa / fd)
+
+Fonte: # [How to calculate the size of a xylophone bar according to its pitch](https://music.stackexchange.com/questions/16441/how-to-calculate-the-size-of-a-xylophone-bar-according-to-its-pitch)
+
+Deste modo, acabei por recorrer a esta formula de calculo para me ajudar a definir as diferentes dimensões para cada uma das minhas lâminas de modo a corresponderem às respetivas notas musicais segundo uma tabela de frequências de notas musicais (# [Music note to frequency chart](https://mixbutton.com/music-tools/frequency-and-pitch/music-note-to-frequency-chart)). Tendo assim obtido os resultados seguintes:
+
+- fc4 (dó) = 261.63 Hz = 83 mm
+- fd4 (ré) = 293.66 Hz = 78 mm
+- fe4 (mi) = 329.63 Hz = 74 mm
+- ff4 (fá) = 349.23 Hz = 72 mm
+- fg4 (sol) = 392 Hz = 68 mm
+- fa4 (lá) = 440 Hz = 64 mm
+- fb4 (si) = 493.88 Hz = 60 mm
+- fc5 (dó) = 523.25 Hz = 58 mm
 
 ## 7. Outros Elementos
-
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
 
 Parizzi, B., Rodrigues, H. (2020). _O BEBÊ E A MÚSICA._ Instituto Langage.
