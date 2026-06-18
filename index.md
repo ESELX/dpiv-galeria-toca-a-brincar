@@ -3,7 +3,7 @@ title: Toca a Brincar!
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/herobanner.png
+hero_image: attachments/herobanner2.png
 hero_title: Toca a Brincar!
 hero_subtitle: Design de Produto IV · 2025-26
 hero_height: 100vh
@@ -53,17 +53,17 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/joão/">
-    <img src="produtos/joão/attachments/herojs.jpg" alt="" />
+    <img src="produtos/joão/attachments/heroj2.png" alt="" />
     <h3>Matraca</h3>
     <p>João Silva</p>
   </a>
   <a class="gallery-card" href="produtos/kenai/">
-    <img src="produtos/kenai/attachments/heroks.jpg" alt="" />
+    <img src="produtos/kenai/attachments/herok2.png" alt="" />
     <h3>Castanholas</h3>
     <p>Kenai Barbosa</p>
   </a>  
   <a class="gallery-card" href="produtos/matilde/">
-    <img src="produtos/matilde/attachments/heroms.jpg" alt="" />
+    <img src="produtos/matilde/attachments/herom2.png" alt="" />
     <h3>Xilofone</h3>
     <p>Matilde Jorge</p>
   </a>
