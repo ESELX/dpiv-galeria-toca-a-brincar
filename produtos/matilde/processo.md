@@ -121,8 +121,15 @@ Em seguimento, fui desenvolvendo os esboços que serviriam como base para aquele
 
 ### 5.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![](attachments/placeholder.png)
+![](attachments/moodboardm1.png)
 
+O trabalho desenvolvido teve sempre em consideração, ao logo de todo o seu processo, os seguintes pontos essências com base no moodboard:
+
+- a brincadeira com os encaixes entre os três brinquedos da linha "Toca a Brincar!" da Nestor. 
+- o caráter de instrumento musical.
+- busca por uma mecânica simples mas pouco convencional, que permita ao Xilofone não estar limitado a um formato genérico.
+
+Estes pontos também contribuíram para a criação de formas mais orgânicas e arredondadas, atentando à segurança dos utilizadores durante o manuseamento do brinquedo e à coerência estética que se procurou alcançar entre os três brinquedos.
 
 ### 5.2. Objetos de referência
 

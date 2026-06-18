@@ -3,7 +3,7 @@ title: Castanholas
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/herok.jpg
+hero_image: attachments/herok1.png
 hero_title: Castanholas
 hero_subtitle: Kenai Barbosa · 2025-26
 hero_height: 80vh
@@ -18,7 +18,7 @@ student_number: "2024336"
 
 ![](attachments/herok.jpg)
 
-A Castanhola Nestor tem como principal objetivo ser um brinquedo tanto musical quanto de encaixe que estimule a criatividade para todas as idades.
+> A Castanhola Nestor tem como principal objetivo ser um brinquedo tanto musical quanto de encaixe que estimule a criatividade para todas as idades.
 ## Conceito
 
 As Castanholas Nestor partem da ideia de construir um brinquedo tanto de caráter exploratório, logico quanto de caráter exploratório criativo, que buscasse desafiar a imaginação. a partir dai ideias foram discutidas em grupo, iniciando com a ideia de um brinquedo relacionado a astronomia e a busca de constelações para o atual tronco de produtos da marca, a musica, considerando os pontos essenciais quais queria destacar meu produto.

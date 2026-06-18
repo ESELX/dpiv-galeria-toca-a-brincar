@@ -3,7 +3,7 @@ title: Matraca
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/heroj.jpg
+hero_image: attachments/heroj1.png
 hero_title: Matraca
 hero_subtitle: João Silva · 2025-26
 hero_height: 80vh

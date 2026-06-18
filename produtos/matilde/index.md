@@ -3,7 +3,7 @@ title: Xilofone Flor
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/herom.jpg
+hero_image: attachments/herom1.png
 hero_title: Xilofone Flor
 hero_subtitle: Matilde Jorge · 2025-26
 hero_height: 80vh
