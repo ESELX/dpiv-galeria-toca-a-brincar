@@ -18,16 +18,19 @@ student_number: "2024277"
 
 ![](attachments/herom.jpg)
 
-> Frase-conceito (uma linha): qual é a proposta?
-
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
+> A música que floresce da madeira.
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
+O Xilofone Flor da Nestor consiste num brinquedo de madeira que assume dois modos de interação distintos:
+- o contacto com um instrumento musical.
+- a brincadeira de encaixes com e entre as peças dos brinquedos *Toca a Brincar!* da Nestor.
 
-![](attachments/placeholder.png)
+Este brinquedo é direcionado para crianças a partir dos 3 anos, de modo a que, através destas componentes interativas consiga impulsionar a sua criatividade.
+Projeta-se que este brinquedo, e os restantes da linha *Toca a Brincar* da Nestor sejam aplicados em contexto escolar e educacional para um melhor enriquecimento musical e cognitivo das crianças.
+
+![](attachments/moodboardm2.png)
+	*moodboard* de referências visuais
 
 ## Enquadramento
 
