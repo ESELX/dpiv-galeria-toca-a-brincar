@@ -53,17 +53,17 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
   <a class="gallery-card" href="produtos/joão/">
-    <img src="produtos/joão/attachments/hero.jpg" alt="" />
+    <img src="produtos/joão/attachments/herojs.jpg" alt="" />
     <h3>Matraca</h3>
     <p>João Silva</p>
   </a>
   <a class="gallery-card" href="produtos/kenai/">
-    <img src="produtos/kenai/attachments/hero.jpg" alt="" />
+    <img src="produtos/kenai/attachments/heroks.jpg" alt="" />
     <h3>Castanholas</h3>
     <p>Kenai Barbosa</p>
   </a>  
   <a class="gallery-card" href="produtos/matilde/">
-    <img src="produtos/matilde/attachments/hero.jpg" alt="" />
+    <img src="produtos/matilde/attachments/heroms.jpg" alt="" />
     <h3>Xilofone</h3>
     <p>Matilde Jorge</p>
   </a>

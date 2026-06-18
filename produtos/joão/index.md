@@ -18,16 +18,11 @@ student_number: "2024296"
 
 ![](attachments/heroj.jpg)
 
-> Frase-conceito (uma linha): qual é a proposta?
-
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
+> Matraca é um instrumento que consiste na movimentação em roda para produzir sons de cliques.
 
 ## Conceito
 
 Matraca sonora transformável a partir de peças planificadas. Produto lúdico que resgata um brinquedo tradicional de percussão, dirigido a crianças (e também adultos) interessadas em explorar ritmos e sons percussivos de forma ativa. A ideia central é unir construção manual (montagem) e experiência sonora bruta, seca e estalada.
-
-![](attachments/placeholder.png)
 
 ## Enquadramento
 
@@ -57,10 +52,12 @@ Necessário ensaio de impacto e compressão para evitar rutura que liberte compo
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/Pasted%20image%2020260618221825.png)
+
+![](attachments/Pasted%20image%2020260618221450.png)
+
+
 
 ---
 

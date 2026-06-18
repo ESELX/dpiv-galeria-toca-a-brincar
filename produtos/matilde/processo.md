@@ -22,15 +22,9 @@ As imagens que seguem foram capturadas recorrendo ao software Autodesk Fusion 36
 
 ![](attachments/m7.png)
 
-## 2. Processo de Prototipagem
+## 2. Protótipos Exploratórios
 
-Maquinação CNC, montagem, acabamentos pontuais. 
-
-![](attachments/placeholder.png)
-
-## 3. Protótipos Exploratórios
-
-### 3.1. Protótipo exploratório nº.1 
+### 2.1. Protótipo exploratório nº.1 
 
 Foi realizado um protótipo, ainda num modelo muito simples no que toca à forma e até mesmo da escala, com o intuito de experimentar e dar a entender melhor os encaixes e a funcionalidade do brinquedo.
 
@@ -50,18 +44,21 @@ Deste modo, recorrendo apenas a este protótipo exploratório cheguei às seguin
 - as peças teriam que ser redimensionadas, para que a altura das peças eixo (os dois retângulos) consiga abranger todas as peças das lâminas (restantes peças com forma de lupa).
 - em alternativa ao ponto anterior - procurar uma abordagem e formato diferente às peças de modo a reduzir a quantidade de peças para simplificar o processo de corte e o formato geral do brinquedo, ao que após este teste verifiquei que não era bem esta o formato que queria seguir.
 
-### 3.2. Protótipo exploratório nº.2
+### 2.2. Protótipo exploratório nº.2
 
 O segundo protótipo já foi um modelo em maior conformidade com as devidas alterações realizadas com base nas observações e aprendizagens feitas com o 1º protótipo exploratório. Apesar de protótipo se apresentar incompleto (falta de uma das peças das lâminas) e possuir algumas falhas que veremos de seguida, este é, também, o que mais se aproxima a um protótipo final do brinquedo Xilofone Nestor. 
 
 ![](attachments/Pasted%20image%2020260618095159.png)
 	Protótipo do Xilofone Nestor parcialmente montado para uma melhor leitura das peças que o constituem e do seu modo de montagem
 
+
 ![](attachments/Pasted%20image%2020260618095205.png)
 	 Protótipo completamente montado
 
+
 ![](attachments/uso.mp4)
 	Protótipo a ser manuseado - relação à escala humana
+
 
 ![](attachments/rotacao.mp4)
 	Protótipo a ser manuseado - rotação da peça das lâminas segundo o eixo central
@@ -79,13 +76,13 @@ Com base nas aprendizagens obtidas com este 2º protótipo, estas são as mudan�
 
 ![](attachments/prototipo2.jpeg)
 
-## 4. Modelos 3D
+## 3. Modelos 3D
 
 https://a360.co/4fSgmIu
 
-## 5. Esboços e Pranchas-Resumo
+## 4. Esboços e Pranchas-Resumo
 
-### 5.1. *Tonette Puzzle*
+### 4.1. *Tonette Puzzle*
 
 ![331](attachments/image-bXGA9.png)
 ![331](attachments/image-fo7rx.png)
@@ -107,31 +104,31 @@ Ao tentar aplicar esta ideia com base na carpintaria digital, várias questões 
 - a brincadeira com a *Tonette* poderia vir a criar alguns constrangimentos e até causar alguma frustração dado que o sopro necessário para a produção de som com o brinquedo é uma questão que requer alguma técnica que as crianças até aos 7 anos por norma ainda não dominam muito bem.
 - a partir dum certo ponto senti que com este projeto estava a tentar fazer de tudo um pouco, mas que efetivamente não estaria a dominar nenhuma das brincadeiras que proporcionaria, fazendo com que o seu propósito acabasse por ficar confuso e desinteressante para as crianças.
 
-### 5.2. Xilofone Flor Nestor
+### 4.2. Xilofone Flor Nestor
 
 Em seguimento, fui desenvolvendo os esboços que serviriam como base para aquele que é o atual Xilofone Flor, cujo processo de desenvolvimento e experimentação foi previamente abordado nos pontos anteriores.
 
 ![419](attachments/pr2matilde.jpeg)
 	Esboços do Xilofone Flor
 
-### 5.3. Prancha Resumo Final
+### 4.3. Prancha Resumo Final
 
 ![](attachments/prfinalmatilde.jpg)
 
-## 6. Pesquisa
+## 5. Pesquisa
 
-### 6.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+### 5.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
 ![](attachments/placeholder.png)
 
-### 6.2. Objetos de referência
+### 5.2. Objetos de referência
 
 Tendo como referência um xilofone de madeira, realizei uma pesquisa que teve como objetivo definir o tamanho das lâminas das notas musicais do Xilofone Flor.
 
 ![](attachments/Pasted%20image%2020260617101555.png)
 	Xilofone de referência - vista de cima
   
-![](app://4f13ff2fed9c13d862c7c2ad11c67fd38308/C:/Users/matil/OneDrive%20-%20Instituto%20Polit%C3%A9cnico%20de%20Lisboa/Documentos/LAVT/2%C2%BA%20ano/2%20semestre/Projeto%20em%20Design/Produto/dpiv-galeria-toca-a-brincar/produtos/matilde/attachments/Pasted%20image%2020260617101607.png?1781687767948)
+![](attachments/Pasted%20image%2020260618221103.png)
 	Xilofone de referência - vista de lado duma das lâminas
 
 Após ter feito uma recolha de informações e medidas de cada uma das lâminas obtive os seguintes dados:
@@ -177,6 +174,6 @@ Deste modo, acabei por recorrer a esta formula de calculo para me ajudar a defin
 - fb4 (si) = 493.88 Hz = 60 mm
 - fc5 (dó) = 523.25 Hz = 58 mm
 
-## 7. Outros Elementos
+## 6. Outros Elementos
 
 Parizzi, B., Rodrigues, H. (2020). _O BEBÊ E A MÚSICA._ Instituto Langage.

@@ -41,13 +41,10 @@ No entanto, a maquete permitiu perceber que seria necessário ajustar algumas me
 ![](attachments/prfinalkenai.jpg)
 ## 5. Pesquisa
 
-### 5.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+### 5.1. Objetos de referencia
 
-![](attachments/placeholder.png)
+![](attachments/Pasted%20image%2020260618220010.png)
+	castanholas típicas da Madeira 
 
-### 5.2. Objetos de referencia
-
-- castanhola madeirense 
-inserir imagem
-- tazos
-inserir imagem
+![](https://app.milanote.com/media/p/images/1VXRpa1UPFOE5C/QTY/71P0D4TZBbL.jpg?w=display&v=2&elementId=1VXRpa1UPFOE5C)
+	tazos
