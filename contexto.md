@@ -14,9 +14,12 @@ published: true
 
 # Contexto de Design
 
-Dado que os três brinquedos seguem a mesma funcionalidade de interação - funcionando tanto como instrumentos musicais quanto puzzles de encaixes - as possibilidades e modos de brincar com cada um dos brinquedos, ou com todos ao mesmo tempo, tornam-se inúmeras, não colocando nenhum travão à criatividade das crianças.
+## 1. Resumo / Abstract
+
+### Resumo (PT)
 
 A nossa musicalidade já se manifesta desde o nascimento, ou até antes de nascermos (Parizzi & Rodrigues, 2020).
+
 
 A Musicalidade comunicativa é uma teoria proposta por Malloch e Trevarthen (2009) que consiste na união da música com a palavra como meio de expressão e comunicação primórdio da nossa espécie. Malloch (1999/2000) dizia que a Musicalidade Comunicativa é uma característica da espécie humana, enquanto que as músicas e as línguas são moldadas pela cultura. Esta é uma habilidade inata que se manifesta desde o nascimento por meio de sons vocais e movimentos corporais, que fundamenta a autoconsciência, a autorregulação , a intersubjetividade e a interação solidária ao longo da vida.
 
@@ -40,23 +43,41 @@ Acreditamos que as crianças devem e merecem crescer com a música num ambiente 
 
 É precisamente com base na teoria da Musicalidade Comunicativa que o ramo da Nestor - Toca a brincar! - surge com a crença e a vontade de fortalecer os laços sociais e relacionais entre as pessoas recorrendo à vista, à escuta e ao sentir da música.
 
-## 1. Resumo / Abstract
-
-> Máximo 500 palavras. Preferencialmente em **PT** e **EN**.
-
-### Resumo (PT)
-
-Coloque aqui o resumo do projeto em português (máximo 500 palavras).
+Dado que os três brinquedos seguem a mesma funcionalidade de interação - funcionando tanto como instrumentos musicais quanto puzzles de encaixes - as possibilidades e modos de brincar com cada um dos brinquedos, ou com todos ao mesmo tempo, tornam-se inúmeras, não colocando nenhum travão à criatividade das crianças.
 
 ### Abstract (EN)
 
-Place here the abstract in English (max 500 words).
+Our musicality manifests itself from birth, or even before we are born (Parizzi & Rodrigues, 2020).
+
+
+Communicative Musicality is a theory proposed by Malloch and Trevarthen (2009) which consists of the union of music and speech as the primordial means of expression and communication for our species. Malloch (1999/2000) said that Communicative Musicality is a characteristic of the human species, where as music and languages are shaped by culture. This is an innate ability that manifests itself from birth through vocal sounds and bodily movements, underpinning self-awareness, self-regulation, intersubjectivity and supportive interaction throughout life.
+
+It can be argued that Communicative Musicality functions as a pillar of human communication because, unlike communication through speech — where the form of interaction and perception relies on the semantic dimension of the word — what matters in expression using "musical gestures" is the affective weight inherent in the sounds of these very gestures.
+
+According to Winkler (2009), babies, and therefore children too, are sensitive to rhythmic periodicity (the regularity of a rhythmic sequence); thus, it is possible to conclude that the perception of pulse is something innate to us.
+
+When Communicative Musicality is explored and deepened, characteristics such as pulse, quality and emotional narrative reveal themselves:
+
+Pulse as the coordination created in communication between two or more people, functioning as a kind of rhythm in the turn-taking between speaker and listener. At this point, it is interesting to consider bodily gestures as musical means of communication too, revealing the first notions of rhythm and expression.
+
+The first language, the first communication, is a language of the body. The baby possesses almost a grammar within this language (Melgaço, 2013).
+
+Emotional quality reflects the modularity of vocal and gestural expression, which varies through attributes such as timbre, volume and intensity.
+
+The sensory, perceptual and affective skills of babies and children reveal "a highly complex and organised being, prepared for survival within the conditions of the species, capable and ready for the construction of social exchanges and relationships" (Bortoletto-Dunker and Lordelo, 1993).
+
+Innate musicality stands out among these skills, with rhythm and melodies functioning as a means of invitation to interaction and communication for babies and children.
+
+We believe that children should and deserve to grow up with music in a vibrant, joyful and affectionate environment, as a rich and stimulating learning context like this contributes to the child's entire cognitive and musical development. The musical experience simultaneously involves multiple areas of the brain, thereby integrating various brain functions such as perception, action, cognition, emotion and memory (Pantev, 2009).
+
+It is precisely based on the theory of Communicative Musicality that the branch of Nestor - *Toca a brincar*! - emerges, driven by the belief and desire to strengthen social and relational bonds between people through seeing, listening to and feeling music.
+
+Given that the three toys share the same interactive functionality — functioning both as musical instruments and shape-sorting puzzles — the possibilities and ways of playing with each individual toy, or with all of them at the same time, become endless, placing no limits on children's creativity.
 
 ## 2. Referências Coletivas
 
 ### 2.1. Recolha de Objetos a Redesenhar/Remisturar
 
-Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
 
 ![Objeto 1](attachments/placeholder.png)
 
