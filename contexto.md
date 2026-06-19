@@ -1,11 +1,11 @@
 ---
-title: "Contexto de Design"
+title: Contexto de Design
 icon: lucide/book-open
 tags: galeria
 status: not-started
-hero_image: ../attachments/hero.jpg
-hero_title: "Contexto de Design"
-hero_subtitle: "Enquadramento do grupo"
+hero_image: ../attachments/herobanner2.png
+hero_title: Contexto de Design
+hero_subtitle: Enquadramento do grupo
 hero_height: 60vh
 hero_overlay: 0.3
 hero_align: center
@@ -78,11 +78,25 @@ Given that the three toys share the same interactive functionality — functioni
 
 ### 2.1. Recolha de Objetos a Redesenhar/Remisturar
 
+![](attachments/image-CKMOh%20(1).png)
+	objeto 1 - *Módulo de construcción con tortillas*
 
-![Objeto 1](attachments/placeholder.png)
+![](attachments/image%20(4).png)
+	objeto 2 - castanholas tradicionais da Madeira
 
-- **Objeto 1** — origem / autoria / razão da escolha
-- **Objeto 2** — ...
+![](attachments/image%20(5).png)
+	objeto 3 - instrumento musical infantil *Lenga* (rela colorida)
+
+![](attachments/Pasted%20image%2020260619122523.png)
+	objeto 4 - *stirring drum Thomann*
+
+- **Objeto 1** — México / Damián Ortega / objeto de referência comum ao grupo tendo servido como ponto de partida para o desenvolvimento dum dos pontos de ligação entre os três brinquedos mais importante - a relação dos brinquedos através dos encaixes das peças comuns a todos 
+
+- **Objeto 2** — Ilha da Madeira / povo fenício / instrumento musical de referência para a criação das Castanholas Nestor
+
+- **Objeto 3** — Portugal / *Lenga* / instrumento musical de referência para a criação da Matraca Nestor
+
+- **Objeto 4** — Suécia / *Nino/Thomann* / instrumento musical de referência para a criação do Xilofone Flor Nestor
 
 ### 2.2. Moodboard
 
@@ -91,7 +105,9 @@ Painel de referências visuais e conceptuais que orientam a estratégia do grupo
 ![](attachments/moodboardf%201.jpg)
 ## 3. Embalagem
 
-
+![](attachments/Mailer_Box_Mockup_3%20copiar.jpg)
+![](attachments/Mailer_Box_Mockup_2%20copiar%202.jpg)
+![](attachments/Mailer_Box_Mockup_4%20copiar%202.jpg)
 
 ## 4. Referências Bibliográficas
 

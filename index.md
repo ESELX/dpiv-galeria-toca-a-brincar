@@ -30,10 +30,10 @@ group_number: ""
 ---
 
 ## Contexto de Design
-![](attachments/placeholder.png)
-> Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
 
-Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md](contexto.md).
+![](attachments/f.png)
+> Os brinquedos do grupo *Toca a Brincar!* da Nestor focam-se na ligação da música com uma brincadeira lúdica e exploratória proporcionada pelos encaixes com as combinações entre peças.
+> Perceba mais sobre o que orientou conceitualmente o grupo para o desenvolvimento destes brinquedos através do contexto abaixo disponibilizado. 
 
 [Ver contexto completo →](contexto.md)
 
