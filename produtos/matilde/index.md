@@ -36,23 +36,37 @@ Projeta-se que este brinquedo, e os restantes da linha *Toca a Brincar* da Nesto
 
 Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
 
+O Xilofone Flor integra a coleção de brinquedos da linha *Toca a Brincar!* da marca Nestor segundo um Design aberto e distribuído. O projeto segue o propósito de dar vida a brinquedos de madeira provenientes dos restos de madeira de mobílias, incentivando o reaproveitamento de materiais e a sustentabilidade. 
+
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+- Material - madeira de nogueira dos restos do mobiliário da [Dutch Craft Furniture](https://dutchcraftfurniture.com/collections/vendors?q=Dutch%20Craft%20Furniture).
+- Fabricação digital proveniente do desenho paramétrico e modular realizado com o software Autodesk Fusion 360 segundo as restrições impostas pela tecnologia CNC (bidimensionalidade do corte).
+- Fabrico com o recurso à tecnologia CNC para o corte das peças e criação de sistemas de encaixes precisos.
 
 - Modelo 3D: https://a360.co/4fSgmIu
 - Ficheiros: `attachments/`
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+Desenhado de modo a integrar um contexto pedagógico e estimulante da capacidades cognitivas e criativas das crianças, o Xilofone Flor 
+O brinquedo procura cativar as crianças e manter o seu interesse intacto com o decorrer do tempo com a sua pluralidade de usos, funcionando a solo ou em conjunto com os restantes brinquedos e instrumentos da gama *Toca a Brincar!*.
+
+
+Numa nota mais técnica, o brinquedo assume no seu design e no decorrer seu processo de fabrico a importância da segurança definidas pelas Diretivas de Segurança de Brinquedos da UE (Diretiva 2009/48/CE), refletindo-se das seguintes formas:
+
+- adequação à idade.
+- segurança física e mecânica dado ao dimensionamento cuidadoso das peças e a ausência bicudas ou cortantes.
+- segurança dos materiais através do recurso a madeiras apropriadas e não tóxicas.
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
+![](attachments/m1.png)
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/m.png)
+
+
+
 
 ---
 

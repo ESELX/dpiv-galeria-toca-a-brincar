@@ -143,7 +143,8 @@ Tendo como referência um xilofone de madeira, realizei uma pesquisa que teve co
 
 Após ter feito uma recolha de informações e medidas de cada uma das lâminas obtive os seguintes dados:
 
-Tamanho das lâminas
+Tamanho das lâminas:
+
 - dó -195 mm
 - ré - 186 mm
 - mi - 174 mm

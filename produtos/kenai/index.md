@@ -23,8 +23,6 @@ student_number: "2024336"
 
 As Castanholas Nestor partem da ideia de construir um brinquedo tanto de caráter exploratório, logico quanto de caráter exploratório criativo, que buscasse desafiar a imaginação. a partir dai ideias foram discutidas em grupo, iniciando com a ideia de um brinquedo relacionado a astronomia e a busca de constelações para o atual tronco de produtos da marca, a musica, considerando os pontos essenciais quais queria destacar meu produto.
 
-![](attachments/placeholder.png)
-
 ## Enquadramento
 
 Inicialmente quando decidimos o tronco chave, fomos atrás de instrumentos quais pudéssemos adaptar. Um brinquedo sonoro que era muito vendido na minha região do Brasil veio à minha mente pelo seu funcionamento ser semelhante à de uma castanhola mas que possuía uma pega similar a uma pega de chocalho. No entanto, com a ideia de gastar o mínimo de material possível, fui atras de instrumentos semelhantes, encontrando assim as castanholas madeirenses, cuja diferente de uma castanhola tradicional, possui diversas “laminas” e em um processo de síntese desenhei a atual castanhola Nestor, atendendo assim às restrições impostas pela tecnologia e conceito do projeto.
@@ -56,10 +54,10 @@ Diretiva 2009/48/CE (Segurança de Brinquedos): Peças bem fixadas para evitar i
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
+![](attachments/k1%201.png)
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/k.png)
+
 
 ---
 

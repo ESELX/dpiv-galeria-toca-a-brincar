@@ -14,6 +14,8 @@ published: true
 
 # Contexto de Design
 
+Dado que os três brinquedos seguem a mesma funcionalidade de interação - funcionando tanto como instrumentos musicais quanto puzzles de encaixes - as possibilidades e modos de brincar com cada um dos brinquedos, ou com todos ao mesmo tempo, tornam-se inúmeras, não colocando nenhum travão à criatividade das crianças.
+
 A nossa musicalidade já se manifesta desde o nascimento, ou até antes de nascermos (Parizzi & Rodrigues, 2020).
 
 A Musicalidade comunicativa é uma teoria proposta por Malloch e Trevarthen (2009) que consiste na união da música com a palavra como meio de expressão e comunicação primórdio da nossa espécie. Malloch (1999/2000) dizia que a Musicalidade Comunicativa é uma característica da espécie humana, enquanto que as músicas e as línguas são moldadas pela cultura. Esta é uma habilidade inata que se manifesta desde o nascimento por meio de sons vocais e movimentos corporais, que fundamenta a autoconsciência, a autorregulação , a intersubjetividade e a interação solidária ao longo da vida.
